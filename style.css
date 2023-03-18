@@ -1,0 +1,44 @@
+nav {
+    background-color: #071930;
+    height: 50px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Amazon Ember",Arial,sans-serif;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 10px;
+    position: relative;
+    top: 10px;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 16px;
+  }
+
+  section {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }  
